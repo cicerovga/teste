@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="BandSports">
+    <display-name lang="pt">BandSports</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvaparecida.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
